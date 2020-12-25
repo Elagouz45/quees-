@@ -1,0 +1,11 @@
+
+
+.container{
+    margin:auto;
+    margin-top: 100px;
+    width: 60%;
+    padding: 10px;
+
+    border: 2px solid #c5cfca;
+    border-radius: 5px;
+  }
